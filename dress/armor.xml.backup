@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "armor.dtd">
+<list>
+	<dress id="1" name="Apella Combat Armor Set">
+		<set chest="14583" legs="-1" gloves="14584" feet="14585" />
+		<price id="37000" count="20" />
+	</dress>
+	<dress id="2" name="Apella Combat Clothes Set">
+		<set chest="14586" legs="-1" gloves="14587" feet="14588" />
+		<price id="37000" count="20" />
+	</dress>
+	<dress id="3" name="Apella Combat Overcoat Set">
+		<set chest="14589" legs="-1" gloves="14590" feet="14591" />
+		<price id="37000" count="20" />
+	</dress>
+	<dress id="4" name="School Uniform A">
+		<set chest="57000" legs="-1" gloves="-1" feet="-1" />
+		<price id="37000" count="20" />
+	</dress>
+	<dress id="5" name="School Uniform B">
+		<set chest="57001" legs="-1" gloves="-1" feet="-1" />
+		<price id="37000" count="20" />
+	</dress>
+	<dress id="6" name="Christmas Uniform">
+		<set chest="57002" legs="-1" gloves="-1" feet="-1" />
+		<price id="37000" count="20" />
+	</dress>
+	<dress id="7" name="Dark Knight Uniform">
+		<set chest="57003" legs="-1" gloves="-1" feet="-1" />
+		<price id="37000" count="20" />
+	</dress>
+	<dress id="8" name="Quipao Uniform">
+		<set chest="57004" legs="-1" gloves="-1" feet="-1" />
+		<price id="37000" count="20" />
+	</dress>
+	<dress id="9" name="Navi Uniform">
+		<set chest="57005" legs="-1" gloves="-1" feet="-1" />
+		<price id="37000" count="20" />
+	</dress>
+	<dress id="10" name="Pirat Uniform">
+		<set chest="57007" legs="-1" gloves="-1" feet="-1" />
+		<price id="37000" count="20" />
+	</dress>
+	<dress id="11" name="Musketeer Uniform">
+		<set chest="57008" legs="-1" gloves="-1" feet="-1" />
+		<price id="37000" count="20" />
+	</dress>
+	<dress id="12" name="Magician Uniform">
+		<set chest="57009" legs="-1" gloves="-1" feet="-1" />
+		<price id="37000" count="20" />
+	</dress>
+	<dress id="13" name="Magician Upgraded Uniform">
+		<set chest="57010" legs="-1" gloves="-1" feet="-1" />
+		<price id="37000" count="20" />
+	</dress>
+	<dress id="14" name="Ninja Suit">
+		<set chest="57011" legs="-1" gloves="-1" feet="-1" />
+		<price id="37000" count="20" />
+	</dress>
+	<dress id="15" name="Dark Assasin Suit">
+		<set chest="60115" legs="-1" gloves="-1" feet="-1" />
+		<price id="37000" count="20" />
+	</dress>
+	<dress id="16" name="Formal Wear">
+		<set chest="6408" legs="-1" gloves="-1" feet="-1" />
+		<price id="37000" count="20" />
+	</dress>
+        <dress id="17" name="Immortal Cuirass Set">
+                <set chest="61000" legs="61001" gloves="61002" feet="61003" />
+                <price id="37000" count="20" />
+        </dress>
+        <dress id="18" name="Immortal Hauberk Set">
+                <set chest="61005" legs="61006" gloves="61007" feet="61008" />
+                <price id="37000" count="20" />
+        </dress>
+        <dress id="19" name="Immortal Tunic Set">
+                <set chest="61010" legs="61011" gloves="61012" feet="61013" />
+                <price id="37000" count="20" />
+        </dress>
+        <dress id="20" name="Twilight Cuirass Set">
+                <set chest="61015" legs="61016" gloves="61017" feet="61018" />
+                <price id="37000" count="20" />
+        </dress>
+        <dress id="21" name="Twilight Cuirass Set">
+                <set chest="61015" legs="61016" gloves="61017" feet="61018" />
+                <price id="37000" count="20" />
+        </dress>
+        <dress id="22" name="Twilight Hauberk Set">
+                <set chest="61020" legs="61021" gloves="61022" feet="61023" />
+                <price id="37000" count="20" />
+        </dress>
+        <dress id="23" name="Twilight Tunic Set">
+                <set chest="61025" legs="61026" gloves="61027" feet="61028" />
+                <price id="37000" count="20" />
+        </dress>
+        <dress id="24" name="Seraph Cuirass Set">
+                <set chest="61030" legs="61031" gloves="61032" feet="61033" />
+                <price id="37000" count="20" />
+        </dress>
+        <dress id="25" name="Seraph Hauberk Set">
+                <set chest="61035" legs="61036" gloves="61037" feet="61038" />
+                <price id="37000" count="20" />
+        </dress>
+        <dress id="26" name="Seraph Tunic Set">
+                <set chest="61040" legs="61041" gloves="61042" feet="61043" />
+                <price id="37000" count="20" />
+        </dress>
+        <dress id="27" name="Eternal Cuirass Set">
+                <set chest="61045" legs="61046" gloves="61047" feet="61048" />
+                <price id="37000" count="20" />
+        </dress>
+        <dress id="28" name="Eternal Hauberk Set">
+                <set chest="61050" legs="61051" gloves="61052" feet="61053" />
+                <price id="37000" count="20" />
+        </dress>
+        <dress id="29" name="Eternal Tunic Set">
+                <set chest="61055" legs="61056" gloves="61057" feet="61058" />
+                <price id="37000" count="20" />
+        </dress>
+        <dress id="30" name="Dark Eternal Cuirass Set">
+                <set chest="61060" legs="61061" gloves="61062" feet="61063" />
+                <price id="37000" count="20" />
+        </dress>
+        <dress id="31" name="Dark Eternal Hauberk Set">
+                <set chest="61065" legs="61066" gloves="61067" feet="61068" />
+                <price id="37000" count="20" />
+        </dress>
+        <dress id="32" name="Dark Eternal Tunic Set">
+                <set chest="61070" legs="61071" gloves="61072" feet="61073" />
+                <price id="37000" count="20" />
+        </dress>
+        <dress id="33" name="Bloody Eternal Cuirass Set">
+                <set chest="61075" legs="61076" gloves="61077" feet="61078" />
+                <price id="37000" count="20" />
+        </dress>
+        <dress id="34" name="Bloody Eternal Hauberk Set">
+                <set chest="61080" legs="61081" gloves="61082" feet="61083" />
+                <price id="37000" count="20" />
+        </dress>
+        <dress id="35" name="Bloody Eternal Tunic Set">
+                <set chest="61085" legs="61086" gloves="61087" feet="61088" />
+                <price id="37000" count="20" />
+        </dress>
+
+</list>

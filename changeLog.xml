@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- types: "BUG", "NEW_FEATURE", "IMPROVEMENT" -->
+<list>
+        <change date="2019-05-03">
+                <fix type="IMPROVEMENT" desc="You will now get Vote Coins and Vote Rune on 100% and BEWS, Ele Crystals and Ele stones on chance from Voting." />
+		<fix type="IMPROVEMENT" desc="Fixed automatic donation system" />
+		<fix type="IMPROVEMENT" desc="Added +1 WIT +1 INT to Ring of Core" />
+		<fix type="IMPROVEMENT" desc="Added Ring of Core and Ant Queen Ring to FA shop" />
+        </change>
+</list>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "item.dtd">
+
+<list>
+  <armor id="90901" name="Seraph Helmet" add_name="Big Head">
+    <set name="crystal_type" value="NONE"/>
+    <set name="icon" value="Dods_Helmets.ICONS.seraph_icon"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="10"/>
+    <equip>
+      <slot id="HAIR_ALL"/>
+    </equip>
+    <skills>
+      <skill id="3404" level="1"/>
+    </skills>
+  </armor>
+  <armor id="90902" name="Immortal Helmet" add_name="Big Head">
+    <set name="crystal_type" value="NONE"/>
+    <set name="icon" value="Dods_Helmets.ICONS.immortal_icon"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="10"/>
+    <equip>
+      <slot id="HAIR_ALL"/>
+    </equip>
+    <skills>
+      <skill id="3404" level="1"/>
+    </skills>
+  </armor>
+  <armor id="90903" name="Eternal Helmet" add_name="Big Head">
+    <set name="crystal_type" value="NONE"/>
+    <set name="icon" value="Dods_Helmets.ICONS.eternal_icon"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="10"/>
+    <equip>
+      <slot id="HAIR_ALL"/>
+    </equip>
+    <skills>
+      <skill id="3404" level="1"/>
+    </skills>
+  </armor>
+  <armor id="90904" name="Twilight Helmet" add_name="Big Head">
+    <set name="crystal_type" value="NONE"/>
+    <set name="icon" value="Dods_Helmets.ICONS.twilight_icon"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="10"/>
+    <equip>
+      <slot id="HAIR_ALL"/>
+    </equip>
+    <skills>
+      <skill id="3404" level="1"/>
+    </skills>
+  </armor>
+  <armor id="60115" name="Dark Assassin Suit" add_name="">
+    <set name="crystal_type" value="NONE"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="L2AvA.ico.Asm_ico"/>
+    <set name="sellable" value="true"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="1000"/>
+    <equip>
+      <slot id="FORMAL_WEAR"/>
+    </equip>
+  </armor>
+</list>

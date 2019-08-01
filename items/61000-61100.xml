@@ -1,0 +1,1831 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "item.dtd">
+
+<list>
+<armor id="61000" name="Immortal Cuirass">
+    <set name="crystal_count" value="2240"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="Icon2.Armor.armor_t501_u_i00"/>
+    <set name="price" value="46668000"/>
+    <set name="type" value="HEAVY"/>
+    <set name="weight" value="7520"/>
+    <equip>
+      <slot id="CHEST"/>
+    </equip>
+    <for>
+      <add stat="pDef" order="0x10" value="250"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor> 
+	<armor id="61001" name="Immortal Gaiters">
+    <set name="crystal_count" value="1400"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="Icon2.Armor.armor_t501_l_i00"/>
+    <set name="price" value="29168000"/>
+    <set name="type" value="HEAVY"/>
+    <set name="weight" value="3170"/>
+    <equip>
+      <slot id="LEGS"/>
+    </equip>
+    <for>
+      <add stat="pDef" order="0x10" value="156"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  <armor id="61002" name="Immortal Gauntlet">
+    <set name="crystal_count" value="560"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="Icon2.Armor.armor_t501_g_i00"/>
+    <set name="price" value="11667000"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="510"/>
+    <equip>
+      <slot id="GLOVES"/>
+    </equip>
+    <for>
+      <add stat="pDef" order="0x10" value="68"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  <armor id="61003" name="Immortal Boots">
+    <set name="crystal_count" value="560"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="Icon2.Armor.armor_t501_b_i00"/>
+    <set name="price" value="11667000"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="1070"/>
+    <equip>
+      <slot id="FEET"/>
+    </equip>
+    <for>
+      <add stat="pDef" order="0x10" value="68"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor> 
+  <armor id="61005" name="Immortal Hauberk">
+    <set name="crystal_count" value="1680"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="Icon2.Armor.armor_t502_u_i00"/>
+    <set name="price" value="35000000"/>
+    <set name="type" value="LIGHT"/>
+    <set name="weight" value="4140"/>
+    <equip>
+      <slot id="CHEST"/>
+    </equip>
+    <for>
+      <add stat="pDef" order="0x10" value="187"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  <armor id="61006" name="Immortal Leather Leggings">
+    <set name="crystal_count" value="1050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="Icon2.Armor.armor_t502_l_i00"/>
+    <set name="price" value="21876000"/>
+    <set name="type" value="LIGHT"/>
+    <set name="weight" value="1320"/>
+    <equip>
+      <slot id="LEGS"/>
+    </equip>
+    <for>
+      <add stat="pDef" order="0x10" value="117"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  <armor id="61007" name="Immortal Leather Gloves">
+    <set name="crystal_count" value="560"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="Icon2.Armor.armor_t502_g_i00"/>
+    <set name="price" value="11667000"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="510"/>
+    <equip>
+      <slot id="GLOVES"/>
+    </equip>
+    <for>
+      <add stat="pDef" order="0x10" value="68"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  <armor id="61008" name="Immortal Leather Boots">
+    <set name="crystal_count" value="560"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="Icon2.Armor.armor_t502_b_i00"/>
+    <set name="price" value="11667000"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="1070"/>
+    <equip>
+      <slot id="FEET"/>
+    </equip>
+    <for>
+      <add stat="pDef" order="0x10" value="68"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  <armor id="61010" name="Immortal Tunic">
+    <set name="crystal_count" value="1680"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="Icon2.Armor.armor_t503_u_i00"/>
+    <set name="price" value="35000000"/>
+    <set name="type" value="MAGIC"/>
+    <set name="weight" value="1750"/>
+    <equip>
+      <slot id="CHEST"/>
+    </equip>
+    <for>
+      <add stat="pDef" order="0x10" value="125"/>
+      <add stat="maxMp" order="0x10" value="637"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  <armor id="61011" name="Immortal Hose">
+    <set name="crystal_count" value="1050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="Icon2.Armor.armor_t503_l_i00"/>
+    <set name="price" value="21876000"/>
+    <set name="type" value="MAGIC"/>
+    <set name="weight" value="850"/>
+    <equip>
+      <slot id="LEGS"/>
+    </equip>
+    <for>
+      <add stat="pDef" order="0x10" value="78"/>
+      <add stat="maxMp" order="0x10" value="415"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  <armor id="61012" name="Immortal Gloves">
+    <set name="crystal_count" value="560"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="Icon2.Armor.armor_t503_g_i00"/>
+    <set name="price" value="11667000"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="510"/>
+    <equip>
+      <slot id="GLOVES"/>
+    </equip>
+    <for>
+      <add stat="pDef" order="0x10" value="68"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  <armor id="61013" name="Immortal Shoes">
+    <set name="crystal_count" value="560"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="Icon2.Armor.armor_t503_b_i00"/>
+    <set name="price" value="11667000"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="1070"/>
+    <equip>
+      <slot id="FEET"/>
+    </equip>
+    <for>
+      <add stat="pDef" order="0x10" value="68"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor> 
+  <armor id="61015" name="Twilight Cuirass">
+    <set name="crystal_count" value="2240"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="Icon2.Armor.armor_t601_u_i00"/>
+    <set name="price" value="46668000"/>
+    <set name="type" value="HEAVY"/>
+    <set name="weight" value="7520"/>
+    <equip>
+      <slot id="CHEST"/>
+    </equip>
+    <for>
+      <add stat="pDef" order="0x10" value="250"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor> 
+	<armor id="61016" name="Twilight Gaiters">
+    <set name="crystal_count" value="1400"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="Icon2.Armor.armor_t601_l_i00"/>
+    <set name="price" value="29168000"/>
+    <set name="type" value="HEAVY"/>
+    <set name="weight" value="3170"/>
+    <equip>
+      <slot id="LEGS"/>
+    </equip>
+    <for>
+      <add stat="pDef" order="0x10" value="156"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  <armor id="61017" name="Twilight Gauntlet">
+    <set name="crystal_count" value="560"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="Icon2.Armor.armor_t601_g_i00"/>
+    <set name="price" value="11667000"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="510"/>
+    <equip>
+      <slot id="GLOVES"/>
+    </equip>
+    <for>
+      <add stat="pDef" order="0x10" value="68"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  <armor id="61018" name="Twilight Boots">
+    <set name="crystal_count" value="560"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="Icon2.Armor.armor_t601_b_i00"/>
+    <set name="price" value="11667000"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="1070"/>
+    <equip>
+      <slot id="FEET"/>
+    </equip>
+    <for>
+      <add stat="pDef" order="0x10" value="68"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor> 
+  <armor id="61020" name="Twilight Hauberk">
+    <set name="crystal_count" value="1680"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="Icon2.Armor.armor_t602_u_i00"/>
+    <set name="price" value="35000000"/>
+    <set name="type" value="LIGHT"/>
+    <set name="weight" value="4140"/>
+    <equip>
+      <slot id="CHEST"/>
+    </equip>
+    <for>
+      <add stat="pDef" order="0x10" value="187"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  <armor id="61021" name="Twilight Leather Leggings">
+    <set name="crystal_count" value="1050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="Icon2.Armor.armor_t602_l_i00"/>
+    <set name="price" value="21876000"/>
+    <set name="type" value="LIGHT"/>
+    <set name="weight" value="1320"/>
+    <equip>
+      <slot id="LEGS"/>
+    </equip>
+    <for>
+      <add stat="pDef" order="0x10" value="117"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  <armor id="61022" name="Twilight Leather Gloves">
+    <set name="crystal_count" value="560"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="Icon2.Armor.armor_t602_g_i00"/>
+    <set name="price" value="11667000"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="510"/>
+    <equip>
+      <slot id="GLOVES"/>
+    </equip>
+    <for>
+      <add stat="pDef" order="0x10" value="68"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  <armor id="61023" name="Twilight Leather Boots">
+    <set name="crystal_count" value="560"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="Icon2.Armor.armor_t602_b_i00"/>
+    <set name="price" value="11667000"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="1070"/>
+    <equip>
+      <slot id="FEET"/>
+    </equip>
+    <for>
+      <add stat="pDef" order="0x10" value="68"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  <armor id="61025" name="Twilight Tunic">
+    <set name="crystal_count" value="1680"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="Icon2.Armor.armor_t603_u_i00"/>
+    <set name="price" value="35000000"/>
+    <set name="type" value="MAGIC"/>
+    <set name="weight" value="1750"/>
+    <equip>
+      <slot id="CHEST"/>
+    </equip>
+    <for>
+      <add stat="pDef" order="0x10" value="125"/>
+      <add stat="maxMp" order="0x10" value="637"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  <armor id="61026" name="Twilight Hose">
+    <set name="crystal_count" value="1050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="Icon2.Armor.armor_t603_l_i00"/>
+    <set name="price" value="21876000"/>
+    <set name="type" value="MAGIC"/>
+    <set name="weight" value="850"/>
+    <equip>
+      <slot id="LEGS"/>
+    </equip>
+    <for>
+      <add stat="pDef" order="0x10" value="78"/>
+      <add stat="maxMp" order="0x10" value="415"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  <armor id="61027" name="Twilight Gloves">
+    <set name="crystal_count" value="560"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="Icon2.Armor.armor_t603_g_i00"/>
+    <set name="price" value="11667000"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="510"/>
+    <equip>
+      <slot id="GLOVES"/>
+    </equip>
+    <for>
+      <add stat="pDef" order="0x10" value="68"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  <armor id="61028" name="Twilight Shoes">
+    <set name="crystal_count" value="560"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="Icon2.Armor.armor_t603_b_i00"/>
+    <set name="price" value="11667000"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="1070"/>
+    <equip>
+      <slot id="FEET"/>
+    </equip>
+    <for>
+      <add stat="pDef" order="0x10" value="68"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  <armor id="61030" name="Seraph Cuirass">
+    <set name="crystal_count" value="2240"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="Icon2.Armor.armor_t401_u_i00"/>
+    <set name="price" value="46668000"/>
+    <set name="type" value="HEAVY"/>
+    <set name="weight" value="7520"/>
+    <equip>
+      <slot id="CHEST"/>
+    </equip>
+    <for>
+      <add stat="pDef" order="0x10" value="250"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor> 
+	<armor id="61031" name="Seraph Gaiters">
+    <set name="crystal_count" value="1400"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="Icon2.Armor.armor_t401_i_i00"/>
+    <set name="price" value="29168000"/>
+    <set name="type" value="HEAVY"/>
+    <set name="weight" value="3170"/>
+    <equip>
+      <slot id="LEGS"/>
+    </equip>
+    <for>
+      <add stat="pDef" order="0x10" value="156"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  <armor id="61032" name="Seraph Gauntlet">
+    <set name="crystal_count" value="560"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="Icon2.Armor.armor_t401_g_i00"/>
+    <set name="price" value="11667000"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="510"/>
+    <equip>
+      <slot id="GLOVES"/>
+    </equip>
+    <for>
+      <add stat="pDef" order="0x10" value="68"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  <armor id="61033" name="Seraph Boots">
+    <set name="crystal_count" value="560"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="Icon2.Armor.armor_t401_b_i00"/>
+    <set name="price" value="11667000"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="1070"/>
+    <equip>
+      <slot id="FEET"/>
+    </equip>
+    <for>
+      <add stat="pDef" order="0x10" value="68"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor> 
+  <armor id="61035" name="Seraph Hauberk">
+    <set name="crystal_count" value="1680"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="Icon2.Armor.armor_t402_u_i00"/>
+    <set name="price" value="35000000"/>
+    <set name="type" value="LIGHT"/>
+    <set name="weight" value="4140"/>
+    <equip>
+      <slot id="CHEST"/>
+    </equip>
+    <for>
+      <add stat="pDef" order="0x10" value="187"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  <armor id="61036" name="Seraph Leather Leggings">
+    <set name="crystal_count" value="1050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="Icon2.Armor.armor_t402_i_i00"/>
+    <set name="price" value="21876000"/>
+    <set name="type" value="LIGHT"/>
+    <set name="weight" value="1320"/>
+    <equip>
+      <slot id="LEGS"/>
+    </equip>
+    <for>
+      <add stat="pDef" order="0x10" value="117"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  <armor id="61037" name="Seraph Leather Gloves">
+    <set name="crystal_count" value="560"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="Icon2.Armor.armor_t402_g_i00"/>
+    <set name="price" value="11667000"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="510"/>
+    <equip>
+      <slot id="GLOVES"/>
+    </equip>
+    <for>
+      <add stat="pDef" order="0x10" value="68"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  <armor id="61038" name="Seraph Leather Boots">
+    <set name="crystal_count" value="560"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="Icon2.Armor.armor_t402_b_i00"/>
+    <set name="price" value="11667000"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="1070"/>
+    <equip>
+      <slot id="FEET"/>
+    </equip>
+    <for>
+      <add stat="pDef" order="0x10" value="68"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  <armor id="61040" name="Seraph Tunic">
+    <set name="crystal_count" value="1680"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="Icon2.Armor.armor_t403_u_i00"/>
+    <set name="price" value="35000000"/>
+    <set name="type" value="MAGIC"/>
+    <set name="weight" value="1750"/>
+    <equip>
+      <slot id="CHEST"/>
+    </equip>
+    <for>
+      <add stat="pDef" order="0x10" value="125"/>
+      <add stat="maxMp" order="0x10" value="637"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  <armor id="61041" name="Seraph Hose">
+    <set name="crystal_count" value="1050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="Icon2.Armor.armor_t403_i_i00"/>
+    <set name="price" value="21876000"/>
+    <set name="type" value="MAGIC"/>
+    <set name="weight" value="850"/>
+    <equip>
+      <slot id="LEGS"/>
+    </equip>
+    <for>
+      <add stat="pDef" order="0x10" value="78"/>
+      <add stat="maxMp" order="0x10" value="415"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  <armor id="61042" name="Seraph Gloves">
+    <set name="crystal_count" value="560"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="Icon2.Armor.armor_t403_g_i00"/>
+    <set name="price" value="11667000"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="510"/>
+    <equip>
+      <slot id="GLOVES"/>
+    </equip>
+    <for>
+      <add stat="pDef" order="0x10" value="68"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  <armor id="61043" name="Seraph Shoes">
+    <set name="crystal_count" value="560"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="Icon2.Armor.armor_t403_b_i00"/>
+    <set name="price" value="11667000"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="1070"/>
+    <equip>
+      <slot id="FEET"/>
+    </equip>
+    <for>
+      <add stat="pDef" order="0x10" value="68"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  <armor id="61045" name="Eternal Cuirass">
+    <set name="crystal_count" value="2240"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="Icon2.Armor.armor_t701_u_i00"/>
+    <set name="price" value="46668000"/>
+    <set name="type" value="HEAVY"/>
+    <set name="weight" value="7520"/>
+    <equip>
+      <slot id="CHEST"/>
+    </equip>
+    <for>
+      <add stat="pDef" order="0x10" value="250"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor> 
+	<armor id="61046" name="Eternal Gaiters">
+    <set name="crystal_count" value="1400"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="Icon2.Armor.armor_t701_i_i00"/>
+    <set name="price" value="29168000"/>
+    <set name="type" value="HEAVY"/>
+    <set name="weight" value="3170"/>
+    <equip>
+      <slot id="LEGS"/>
+    </equip>
+    <for>
+      <add stat="pDef" order="0x10" value="156"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  <armor id="61047" name="Eternal Gauntlet">
+    <set name="crystal_count" value="560"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="Icon2.Armor.armor_t701_h_i00"/>
+    <set name="price" value="11667000"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="510"/>
+    <equip>
+      <slot id="GLOVES"/>
+    </equip>
+    <for>
+      <add stat="pDef" order="0x10" value="68"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  <armor id="61048" name="Eternal Boots">
+    <set name="crystal_count" value="560"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="Icon2.Armor.armor_t701_b_i00"/>
+    <set name="price" value="11667000"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="1070"/>
+    <equip>
+      <slot id="FEET"/>
+    </equip>
+    <for>
+      <add stat="pDef" order="0x10" value="68"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor> 
+  <armor id="61050" name="Eternal Hauberk">
+    <set name="crystal_count" value="1680"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="Icon2.Armor.armor_t702_u_i00"/>
+    <set name="price" value="35000000"/>
+    <set name="type" value="LIGHT"/>
+    <set name="weight" value="4140"/>
+    <equip>
+      <slot id="CHEST"/>
+    </equip>
+    <for>
+      <add stat="pDef" order="0x10" value="187"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  <armor id="61051" name="Eternal Leather Leggings">
+    <set name="crystal_count" value="1050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="Icon2.Armor.armor_t702_i_i00"/>
+    <set name="price" value="21876000"/>
+    <set name="type" value="LIGHT"/>
+    <set name="weight" value="1320"/>
+    <equip>
+      <slot id="LEGS"/>
+    </equip>
+    <for>
+      <add stat="pDef" order="0x10" value="117"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  <armor id="61052" name="Eternal Leather Gloves">
+    <set name="crystal_count" value="560"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="Icon2.Armor.armor_t702_g_i00"/>
+    <set name="price" value="11667000"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="510"/>
+    <equip>
+      <slot id="GLOVES"/>
+    </equip>
+    <for>
+      <add stat="pDef" order="0x10" value="68"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  <armor id="61053" name="Eternal Leather Boots">
+    <set name="crystal_count" value="560"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="Icon2.Armor.armor_t702_b_i00"/>
+    <set name="price" value="11667000"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="1070"/>
+    <equip>
+      <slot id="FEET"/>
+    </equip>
+    <for>
+      <add stat="pDef" order="0x10" value="68"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  <armor id="61055" name="Eternal Tunic">
+    <set name="crystal_count" value="1680"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="Icon2.Armor.armor_t703_u_i00"/>
+    <set name="price" value="35000000"/>
+    <set name="type" value="MAGIC"/>
+    <set name="weight" value="1750"/>
+    <equip>
+      <slot id="CHEST"/>
+    </equip>
+    <for>
+      <add stat="pDef" order="0x10" value="125"/>
+      <add stat="maxMp" order="0x10" value="637"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  <armor id="61056" name="Eternal Hose">
+    <set name="crystal_count" value="1050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="Icon2.Armor.armor_t703_i_i00"/>
+    <set name="price" value="21876000"/>
+    <set name="type" value="MAGIC"/>
+    <set name="weight" value="850"/>
+    <equip>
+      <slot id="LEGS"/>
+    </equip>
+    <for>
+      <add stat="pDef" order="0x10" value="78"/>
+      <add stat="maxMp" order="0x10" value="415"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  <armor id="61057" name="Eternal Gloves">
+    <set name="crystal_count" value="560"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="Icon2.Armor.armor_t703_g_i00"/>
+    <set name="price" value="11667000"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="510"/>
+    <equip>
+      <slot id="GLOVES"/>
+    </equip>
+    <for>
+      <add stat="pDef" order="0x10" value="68"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  <armor id="61058" name="Eternal Shoes">
+    <set name="crystal_count" value="560"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="Icon2.Armor.armor_t703_b_i00"/>
+    <set name="price" value="11667000"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="1070"/>
+    <equip>
+      <slot id="FEET"/>
+    </equip>
+    <for>
+      <add stat="pDef" order="0x10" value="68"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+	</armor>
+    <armor id="61060" name="Dark Eternal Cuirass">
+    <set name="crystal_count" value="2240"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="Icon2.Armor.armor_t811_u_i00"/>
+    <set name="price" value="46668000"/>
+    <set name="type" value="HEAVY"/>
+    <set name="weight" value="7520"/>
+    <equip>
+      <slot id="CHEST"/>
+    </equip>
+    <for>
+      <add stat="pDef" order="0x10" value="250"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor> 
+	<armor id="61061" name="Dark Eternal Gaiters">
+    <set name="crystal_count" value="1400"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="Icon2.Armor.armor_t811_i_i00"/>
+    <set name="price" value="29168000"/>
+    <set name="type" value="HEAVY"/>
+    <set name="weight" value="3170"/>
+    <equip>
+      <slot id="LEGS"/>
+    </equip>
+    <for>
+      <add stat="pDef" order="0x10" value="156"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  <armor id="61062" name="Dark Eternal Gauntlet">
+    <set name="crystal_count" value="560"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="Icon2.Armor.armor_t811_g_i00"/>
+    <set name="price" value="11667000"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="510"/>
+    <equip>
+      <slot id="GLOVES"/>
+    </equip>
+    <for>
+      <add stat="pDef" order="0x10" value="68"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  <armor id="61063" name="Dark Eternal Boots">
+    <set name="crystal_count" value="560"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="Icon2.Armor.armor_t811_b_i00"/>
+    <set name="price" value="11667000"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="1070"/>
+    <equip>
+      <slot id="FEET"/>
+    </equip>
+    <for>
+      <add stat="pDef" order="0x10" value="68"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor> 
+  <armor id="61065" name="Dark Eternal Hauberk">
+    <set name="crystal_count" value="1680"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="Icon2.Armor.armor_t812_u_i00"/>
+    <set name="price" value="35000000"/>
+    <set name="type" value="LIGHT"/>
+    <set name="weight" value="4140"/>
+    <equip>
+      <slot id="CHEST"/>
+    </equip>
+    <for>
+      <add stat="pDef" order="0x10" value="187"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  <armor id="61066" name="Dark Eternal Leather Leggings">
+    <set name="crystal_count" value="1050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="Icon2.Armor.armor_t812_i_i00"/>
+    <set name="price" value="21876000"/>
+    <set name="type" value="LIGHT"/>
+    <set name="weight" value="1320"/>
+    <equip>
+      <slot id="LEGS"/>
+    </equip>
+    <for>
+      <add stat="pDef" order="0x10" value="117"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  <armor id="61067" name="Dark Eternal Leather Gloves">
+    <set name="crystal_count" value="560"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="Icon2.Armor.armor_t812_g_i00"/>
+    <set name="price" value="11667000"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="510"/>
+    <equip>
+      <slot id="GLOVES"/>
+    </equip>
+    <for>
+      <add stat="pDef" order="0x10" value="68"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  <armor id="61068" name="Dark Eternal Leather Boots">
+    <set name="crystal_count" value="560"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="Icon2.Armor.armor_t812_b_i00"/>
+    <set name="price" value="11667000"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="1070"/>
+    <equip>
+      <slot id="FEET"/>
+    </equip>
+    <for>
+      <add stat="pDef" order="0x10" value="68"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  <armor id="61070" name="Dark Eternal Tunic">
+    <set name="crystal_count" value="1680"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="Icon2.Armor.armor_t813_u_i00"/>
+    <set name="price" value="35000000"/>
+    <set name="type" value="MAGIC"/>
+    <set name="weight" value="1750"/>
+    <equip>
+      <slot id="CHEST"/>
+    </equip>
+    <for>
+      <add stat="pDef" order="0x10" value="125"/>
+      <add stat="maxMp" order="0x10" value="637"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  <armor id="61071" name="Dark Eternal Hose">
+    <set name="crystal_count" value="1050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="Icon2.Armor.armor_t813_i_i00"/>
+    <set name="price" value="21876000"/>
+    <set name="type" value="MAGIC"/>
+    <set name="weight" value="850"/>
+    <equip>
+      <slot id="LEGS"/>
+    </equip>
+    <for>
+      <add stat="pDef" order="0x10" value="78"/>
+      <add stat="maxMp" order="0x10" value="415"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  <armor id="61072" name="Dark Eternal Gloves">
+    <set name="crystal_count" value="560"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="Icon2.Armor.armor_t813_g_i00"/>
+    <set name="price" value="11667000"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="510"/>
+    <equip>
+      <slot id="GLOVES"/>
+    </equip>
+    <for>
+      <add stat="pDef" order="0x10" value="68"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  <armor id="61073" name="Dark Eternal Shoes">
+    <set name="crystal_count" value="560"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="Icon2.Armor.armor_t813_b_i00"/>
+    <set name="price" value="11667000"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="1070"/>
+    <equip>
+      <slot id="FEET"/>
+    </equip>
+    <for>
+      <add stat="pDef" order="0x10" value="68"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+	</armor>
+    <armor id="61075" name="Bloody Eternal Cuirass">
+    <set name="crystal_count" value="2240"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="Icon2.Armor.armor_t801_u_i00"/>
+    <set name="price" value="46668000"/>
+    <set name="type" value="HEAVY"/>
+    <set name="weight" value="7520"/>
+    <equip>
+      <slot id="CHEST"/>
+    </equip>
+    <for>
+      <add stat="pDef" order="0x10" value="250"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor> 
+	<armor id="61076" name="Bloody Eternal Gaiters">
+    <set name="crystal_count" value="1400"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="Icon2.Armor.armor_t801_i_i00"/>
+    <set name="price" value="29168000"/>
+    <set name="type" value="HEAVY"/>
+    <set name="weight" value="3170"/>
+    <equip>
+      <slot id="LEGS"/>
+    </equip>
+    <for>
+      <add stat="pDef" order="0x10" value="156"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  <armor id="61077" name="Bloody Eternal Gauntlet">
+    <set name="crystal_count" value="560"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="Icon2.Armor.armor_t801_g_i00"/>
+    <set name="price" value="11667000"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="510"/>
+    <equip>
+      <slot id="GLOVES"/>
+    </equip>
+    <for>
+      <add stat="pDef" order="0x10" value="68"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  <armor id="61078" name="Bloody Eternal Boots">
+    <set name="crystal_count" value="560"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="Icon2.Armor.armor_t801_b_i00"/>
+    <set name="price" value="11667000"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="1070"/>
+    <equip>
+      <slot id="FEET"/>
+    </equip>
+    <for>
+      <add stat="pDef" order="0x10" value="68"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor> 
+  <armor id="61080" name="Bloody Eternal Hauberk">
+    <set name="crystal_count" value="1680"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="Icon2.Armor.armor_t802_u_i00"/>
+    <set name="price" value="35000000"/>
+    <set name="type" value="LIGHT"/>
+    <set name="weight" value="4140"/>
+    <equip>
+      <slot id="CHEST"/>
+    </equip>
+    <for>
+      <add stat="pDef" order="0x10" value="187"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  <armor id="61081" name="Bloody Eternal Leather Leggings">
+    <set name="crystal_count" value="1050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="Icon2.Armor.armor_t802_i_i00"/>
+    <set name="price" value="21876000"/>
+    <set name="type" value="LIGHT"/>
+    <set name="weight" value="1320"/>
+    <equip>
+      <slot id="LEGS"/>
+    </equip>
+    <for>
+      <add stat="pDef" order="0x10" value="117"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  <armor id="61082" name="Bloody Eternal Leather Gloves">
+    <set name="crystal_count" value="560"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="Icon2.Armor.armor_t802_g_i00"/>
+    <set name="price" value="11667000"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="510"/>
+    <equip>
+      <slot id="GLOVES"/>
+    </equip>
+    <for>
+      <add stat="pDef" order="0x10" value="68"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  <armor id="61083" name="Bloody Eternal Leather Boots">
+    <set name="crystal_count" value="560"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="Icon2.Armor.armor_t802_b_i00"/>
+    <set name="price" value="11667000"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="1070"/>
+    <equip>
+      <slot id="FEET"/>
+    </equip>
+    <for>
+      <add stat="pDef" order="0x10" value="68"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  <armor id="61085" name="Bloody Eternal Tunic">
+    <set name="crystal_count" value="1680"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="Icon2.Armor.armor_t803_u_i00"/>
+    <set name="price" value="35000000"/>
+    <set name="type" value="MAGIC"/>
+    <set name="weight" value="1750"/>
+    <equip>
+      <slot id="CHEST"/>
+    </equip>
+    <for>
+      <add stat="pDef" order="0x10" value="125"/>
+      <add stat="maxMp" order="0x10" value="637"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  <armor id="61086" name="Bloody Eternal Hose">
+    <set name="crystal_count" value="1050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="Icon2.Armor.armor_t803_i_i00"/>
+    <set name="price" value="21876000"/>
+    <set name="type" value="MAGIC"/>
+    <set name="weight" value="850"/>
+    <equip>
+      <slot id="LEGS"/>
+    </equip>
+    <for>
+      <add stat="pDef" order="0x10" value="78"/>
+      <add stat="maxMp" order="0x10" value="415"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  <armor id="61087" name="Bloody Eternal Gloves">
+    <set name="crystal_count" value="560"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="Icon2.Armor.armor_t803_g_i00"/>
+    <set name="price" value="11667000"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="510"/>
+    <equip>
+      <slot id="GLOVES"/>
+    </equip>
+    <for>
+      <add stat="pDef" order="0x10" value="68"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  <armor id="61088" name="Bloody Eternal Shoes">
+    <set name="crystal_count" value="560"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="Icon2.Armor.armor_t803_b_i00"/>
+    <set name="price" value="11667000"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="1070"/>
+    <equip>
+      <slot id="FEET"/>
+    </equip>
+    <for>
+      <add stat="pDef" order="0x10" value="68"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+   <armor id="60096" name="Abelius Cloak">
+       <set name="enchantable" value="false"/>
+       <set name="crystal_type" value="S84"/>
+       <set name="icon" value="Icon2.cloak.knight"/>
+       <set name="price" value="28671000"/>
+       <set name="sellable" value="false"/>
+       <set name="tradeable" value="false"/>
+       <set name="dropable" value="false" />
+       <set name="storeable" value="false"/>
+       <set name="type" value="NONE"/>
+       <set name="weight" value="220"/>
+            <equip>
+                    <slot id="BACK"/>
+            </equip>
+            <attributes>
+                    <attribute element="unholy" value="30"/>
+            </attributes>
+             <for>
+                    <add stat="pDef" order="0x10" value="80"/>
+                    <enchant stat="pDef" order="0x0C" value="0"/>
+                    <enchant stat="maxHp" order="0x80" value="0"/>
+            </for>
+    </armor>
+   <armor id="60097" name="Sapyros Cloak">
+       <set name="enchantable" value="false"/>
+       <set name="crystal_type" value="S84"/>
+       <set name="icon" value="Icon2.cloak.warrior"/>
+       <set name="price" value="28671000"/>
+       <set name="sellable" value="false"/>
+       <set name="tradeable" value="false"/>
+       <set name="dropable" value="false" />
+       <set name="storeable" value="false"/>
+       <set name="type" value="NONE"/>
+       <set name="weight" value="220"/>
+            <equip>
+                    <slot id="BACK"/>
+            </equip>
+            <attributes>
+                    <attribute element="unholy" value="30"/>
+            </attributes>
+             <for>
+                    <add stat="pDef" order="0x10" value="80"/>
+                    <enchant stat="pDef" order="0x0C" value="0"/>
+                    <enchant stat="maxHp" order="0x80" value="0"/>
+            </for>
+    </armor>
+   <armor id="60098" name="Ashagen Cloak">
+       <set name="enchantable" value="false"/>
+       <set name="crystal_type" value="S84"/>
+       <set name="icon" value="Icon2.cloak.rogue"/>
+       <set name="price" value="28671000"/>
+       <set name="sellable" value="false"/>
+       <set name="tradeable" value="false"/>
+       <set name="dropable" value="false" />
+       <set name="storeable" value="false"/>
+       <set name="type" value="NONE"/>
+       <set name="weight" value="220"/>
+            <equip>
+                    <slot id="BACK"/>
+            </equip>
+            <attributes>
+                    <attribute element="unholy" value="30"/>
+            </attributes>
+             <for>
+                    <add stat="pDef" order="0x10" value="80"/>
+                    <enchant stat="pDef" order="0x0C" value="0"/>
+                    <enchant stat="maxHp" order="0x80" value="0"/>
+            </for>
+    </armor>
+   <armor id="60099" name="Cranigg Cloak">
+       <set name="enchantable" value="false"/>
+       <set name="crystal_type" value="S84"/>
+       <set name="icon" value="Icon2.cloak.archer"/>
+       <set name="price" value="28671000"/>
+       <set name="sellable" value="false"/>
+       <set name="tradeable" value="false"/>
+       <set name="dropable" value="false" />
+       <set name="storeable" value="false"/>
+       <set name="type" value="NONE"/>
+       <set name="weight" value="220"/>
+            <equip>
+                    <slot id="BACK"/>
+            </equip>
+            <attributes>
+                    <attribute element="unholy" value="30"/>
+            </attributes>
+             <for>
+                    <add stat="pDef" order="0x10" value="80"/>
+                    <enchant stat="pDef" order="0x0C" value="0"/>
+                    <enchant stat="maxHp" order="0x80" value="0"/>
+            </for>
+    </armor>
+   <armor id="60100" name="Soltkreig Cloak">
+       <set name="enchantable" value="false"/>
+       <set name="crystal_type" value="S84"/>
+       <set name="icon" value="Icon2.cloak.wizard"/>
+       <set name="price" value="28671000"/>
+       <set name="sellable" value="false"/>
+       <set name="tradeable" value="false"/>
+       <set name="dropable" value="false" />
+       <set name="storeable" value="false"/>
+       <set name="type" value="NONE"/>
+       <set name="weight" value="220"/>
+            <equip>
+                    <slot id="BACK"/>
+            </equip>
+            <attributes>
+                    <attribute element="unholy" value="30"/>
+            </attributes>
+             <for>
+                    <add stat="pDef" order="0x10" value="80"/>
+                    <enchant stat="pDef" order="0x0C" value="0"/>
+                    <enchant stat="maxHp" order="0x80" value="0"/>
+            </for>
+    </armor>
+   <armor id="60101" name="Naviarope Cloak">
+       <set name="enchantable" value="false"/>
+       <set name="crystal_type" value="S84"/>
+       <set name="icon" value="Icon2.cloak.summoner"/>
+       <set name="price" value="28671000"/>
+       <set name="sellable" value="false"/>
+       <set name="tradeable" value="false"/>
+       <set name="dropable" value="false" />
+       <set name="storeable" value="false"/>
+       <set name="type" value="NONE"/>
+       <set name="weight" value="220"/>
+            <equip>
+                    <slot id="BACK"/>
+            </equip>
+            <attributes>
+                    <attribute element="unholy" value="30"/>
+            </attributes>
+             <for>
+                    <add stat="pDef" order="0x10" value="80"/>
+                    <enchant stat="pDef" order="0x0C" value="0"/>
+                    <enchant stat="maxHp" order="0x80" value="0"/>
+            </for>
+    </armor>
+   <armor id="60102" name="Leister Cloak">
+       <set name="enchantable" value="false"/>
+       <set name="crystal_type" value="S84"/>
+       <set name="icon" value="Icon2.cloak.enchanter"/>
+       <set name="price" value="28671000"/>
+       <set name="sellable" value="false"/>
+       <set name="tradeable" value="false"/>
+       <set name="dropable" value="false" />
+       <set name="storeable" value="false"/>
+       <set name="type" value="NONE"/>
+       <set name="weight" value="220"/>
+            <equip>
+                    <slot id="BACK"/>
+            </equip>
+            <attributes>
+                    <attribute element="unholy" value="30"/>
+            </attributes>
+             <for>
+                    <add stat="pDef" order="0x10" value="80"/>
+                    <enchant stat="pDef" order="0x0C" value="0"/>
+                    <enchant stat="maxHp" order="0x80" value="0"/>
+            </for>
+    </armor>
+   <armor id="60103" name="Lakcis Cloak">
+       <set name="enchantable" value="false"/>
+       <set name="crystal_type" value="S84"/>
+       <set name="icon" value="Icon2.cloak.healer"/>
+       <set name="price" value="28671000"/>
+       <set name="sellable" value="false"/>
+       <set name="tradeable" value="false"/>
+       <set name="dropable" value="false" />
+       <set name="storeable" value="false"/>
+       <set name="type" value="NONE"/>
+       <set name="weight" value="220"/>
+            <equip>
+                    <slot id="BACK"/>
+            </equip>
+            <attributes>
+                    <attribute element="unholy" value="30"/>
+            </attributes>
+             <for>
+                    <add stat="pDef" order="0x10" value="80"/>
+                    <enchant stat="pDef" order="0x0C" value="0"/>
+                    <enchant stat="maxHp" order="0x80" value="0"/>
+            </for>
+    </armor>
+   <armor id="60104" name="Hero's Cloak">
+       <set name="enchantable" value="false"/>
+       <set name="crystal_type" value="S84"/>
+       <set name="icon" value="icon.vesper_cloack_i00"/>
+       <set name="price" value="28671000"/>
+       <set name="sellable" value="false"/>
+       <set name="tradeable" value="false"/>
+       <set name="dropable" value="false" />
+       <set name="storeable" value="false"/>
+       <set name="type" value="NONE"/>
+       <set name="weight" value="220"/>
+            <equip>
+                    <slot id="BACK"/>
+            </equip>
+            <attributes>
+                    <attribute element="unholy" value="30"/>
+            </attributes>
+             <for>
+                    <add stat="pDef" order="0x10" value="80"/>
+                    <enchant stat="pDef" order="0x0C" value="0"/>
+                    <enchant stat="maxHp" order="0x80" value="0"/>
+            </for>
+    </armor>
+   <armor id="60105" name="Glorious Cloak">
+       <set name="enchantable" value="false"/>
+       <set name="crystal_type" value="S84"/>
+       <set name="icon" value="Icon2.cloak.glorious"/>
+       <set name="price" value="28671000"/>
+       <set name="sellable" value="false"/>
+       <set name="tradeable" value="false"/>
+       <set name="dropable" value="false" />
+       <set name="storeable" value="false"/>
+       <set name="type" value="NONE"/>
+       <set name="weight" value="220"/>
+            <equip>
+                    <slot id="BACK"/>
+            </equip>
+            <attributes>
+                    <attribute element="unholy" value="30"/>
+            </attributes>
+             <for>
+                    <add stat="pDef" order="0x10" value="80"/>
+                    <enchant stat="pDef" order="0x0C" value="0"/>
+                    <enchant stat="maxHp" order="0x80" value="0"/>
+            </for>
+    </armor>
+   <armor id="60106" name="Cloak of Light">
+       <set name="enchantable" value="false"/>
+       <set name="crystal_type" value="S84"/>
+       <set name="icon" value="icon.vesper_cloack_i00"/>
+       <set name="price" value="28671000"/>
+       <set name="sellable" value="false"/>
+       <set name="tradeable" value="false"/>
+       <set name="dropable" value="false" />
+       <set name="storeable" value="false"/>
+       <set name="type" value="NONE"/>
+       <set name="weight" value="220"/>
+            <equip>
+                    <slot id="BACK"/>
+            </equip>
+            <attributes>
+                    <attribute element="unholy" value="30"/>
+            </attributes>
+             <for>
+                    <add stat="pDef" order="0x10" value="80"/>
+                    <enchant stat="pDef" order="0x0C" value="0"/>
+                    <enchant stat="maxHp" order="0x80" value="0"/>
+            </for>
+    </armor>
+   <armor id="60107" name="Cloak of Darkness">
+       <set name="enchantable" value="false"/>
+       <set name="crystal_type" value="S84"/>
+       <set name="icon" value="icon.vesper_cloack_i00"/>
+       <set name="price" value="28671000"/>
+       <set name="sellable" value="false"/>
+       <set name="tradeable" value="false"/>
+       <set name="dropable" value="false" />
+       <set name="storeable" value="false"/>
+       <set name="type" value="NONE"/>
+       <set name="weight" value="220"/>
+            <equip>
+                    <slot id="BACK"/>
+            </equip>
+            <attributes>
+                    <attribute element="unholy" value="30"/>
+            </attributes>
+             <for>
+                    <add stat="pDef" order="0x10" value="80"/>
+                    <enchant stat="pDef" order="0x0C" value="0"/>
+                    <enchant stat="maxHp" order="0x80" value="0"/>
+            </for>
+    </armor>
+   <armor id="60108" name="Halloween Cloak">
+       <set name="enchantable" value="false"/>
+       <set name="crystal_type" value="S84"/>
+       <set name="icon" value="BranchSys3.Icon.g_halloween_cloack_i00"/>
+       <set name="price" value="28671000"/>
+       <set name="sellable" value="false"/>
+       <set name="tradeable" value="false"/>
+       <set name="dropable" value="false" />
+       <set name="storeable" value="false"/>
+       <set name="type" value="NONE"/>
+       <set name="weight" value="220"/>
+            <equip>
+                    <slot id="BACK"/>
+            </equip>
+            <attributes>
+                    <attribute element="unholy" value="30"/>
+            </attributes>
+             <for>
+                    <add stat="pDef" order="0x10" value="80"/>
+                    <enchant stat="pDef" order="0x0C" value="0"/>
+                    <enchant stat="maxHp" order="0x80" value="0"/>
+            </for>
+    </armor>
+   <armor id="60109" name="Christmas Cloak">
+       <set name="enchantable" value="false"/>
+       <set name="crystal_type" value="S84"/>
+       <set name="icon" value="BranchSys3.icon.g_christmas_cloak"/>
+       <set name="price" value="28671000"/>
+       <set name="sellable" value="false"/>
+       <set name="tradeable" value="false"/>
+       <set name="dropable" value="false" />
+       <set name="storeable" value="false"/>
+       <set name="type" value="NONE"/>
+       <set name="weight" value="220"/>
+            <equip>
+                    <slot id="BACK"/>
+            </equip>
+            <attributes>
+                    <attribute element="unholy" value="30"/>
+            </attributes>
+             <for>
+                    <add stat="pDef" order="0x10" value="80"/>
+                    <enchant stat="pDef" order="0x0C" value="0"/>
+                    <enchant stat="maxHp" order="0x80" value="0"/>
+            </for>
+    </armor>
+   <armor id="60110" name="Golden Noblesse Cloak">
+       <set name="enchantable" value="false"/>
+       <set name="crystal_type" value="S84"/>
+       <set name="icon" value="Icon2.cloak.nobless"/>
+       <set name="price" value="28671000"/>
+       <set name="sellable" value="false"/>
+       <set name="tradeable" value="false"/>
+       <set name="dropable" value="false" />
+       <set name="storeable" value="false"/>
+       <set name="type" value="NONE"/>
+       <set name="weight" value="220"/>
+            <equip>
+                    <slot id="BACK"/>
+            </equip>
+            <attributes>
+                    <attribute element="unholy" value="30"/>
+            </attributes>
+             <for>
+                    <add stat="pDef" order="0x10" value="80"/>
+                    <enchant stat="pDef" order="0x0C" value="0"/>
+                    <enchant stat="maxHp" order="0x80" value="0"/>
+            </for>
+    </armor>
+   <armor id="60111" name="Battle Cloak - Magma">
+       <set name="enchantable" value="false"/>
+       <set name="crystal_type" value="S84"/>
+       <set name="icon" value="Icon2.cloak.magma"/>
+       <set name="price" value="28671000"/>
+       <set name="sellable" value="false"/>
+       <set name="tradeable" value="false"/>
+       <set name="dropable" value="false" />
+       <set name="storeable" value="false"/>
+       <set name="type" value="NONE"/>
+       <set name="weight" value="220"/>
+            <equip>
+                    <slot id="BACK"/>
+            </equip>
+            <attributes>
+                    <attribute element="unholy" value="30"/>
+            </attributes>
+             <for>
+                    <add stat="pDef" order="0x10" value="80"/>
+                    <enchant stat="pDef" order="0x0C" value="0"/>
+                    <enchant stat="maxHp" order="0x80" value="0"/>
+            </for>
+    </armor>
+   <armor id="60112" name="Battle Cloak - Gore">
+       <set name="enchantable" value="false"/>
+       <set name="crystal_type" value="S84"/>
+       <set name="icon" value="Icon2.cloak.gore"/>
+       <set name="price" value="28671000"/>
+       <set name="sellable" value="false"/>
+       <set name="tradeable" value="false"/>
+       <set name="dropable" value="false" />
+       <set name="storeable" value="false"/>
+       <set name="type" value="NONE"/>
+       <set name="weight" value="220"/>
+            <equip>
+                    <slot id="BACK"/>
+            </equip>
+            <attributes>
+                    <attribute element="unholy" value="30"/>
+            </attributes>
+             <for>
+                    <add stat="pDef" order="0x10" value="80"/>
+                    <enchant stat="pDef" order="0x0C" value="0"/>
+                    <enchant stat="maxHp" order="0x80" value="0"/>
+            </for>
+    </armor>
+   <armor id="60113" name="Battle Cloak - Flawlesse">
+       <set name="enchantable" value="false"/>
+       <set name="crystal_type" value="S84"/>
+       <set name="icon" value="Icon2.cloak.flawless"/>
+       <set name="price" value="28671000"/>
+       <set name="sellable" value="false"/>
+       <set name="tradeable" value="false"/>
+       <set name="dropable" value="false" />
+       <set name="storeable" value="false"/>
+       <set name="type" value="NONE"/>
+       <set name="weight" value="220"/>
+            <equip>
+                    <slot id="BACK"/>
+            </equip>
+            <attributes>
+                    <attribute element="unholy" value="30"/>
+            </attributes>
+             <for>
+                    <add stat="pDef" order="0x10" value="80"/>
+                    <enchant stat="pDef" order="0x0C" value="0"/>
+                    <enchant stat="maxHp" order="0x80" value="0"/>
+            </for>
+    </armor>
+  <weapon id="61095" name="Immortal Shield">
+    <set name="crystal_count" value="307"/>
+    <set name="crystal_type" value="S"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="Icon2.Armor.weapon_dynaksus_i00"/>
+    <set name="price" value="6404000"/>
+    <set name="rnd_dam" value="0"/>
+    <set name="soulshots" value="0"/>
+    <set name="spiritshots" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="1150"/>
+    <equip>
+      <slot id="LEFT_HAND"/>
+    </equip>
+    <for>
+      <add stat="sDef" order="0x10" value="305"/>
+      <add stat="rShld" order="0x10" value="20"/>
+      <add stat="rEvas" order="0x10" value="-8.0000"/>
+      <enchant stat="sDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </weapon>
+  <weapon id="61096" name="Twilight Shield">
+    <set name="crystal_count" value="307"/>
+    <set name="crystal_type" value="S"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="Icon2.Armor.weapon_dynaksus_i00"/>
+    <set name="price" value="6404000"/>
+    <set name="rnd_dam" value="0"/>
+    <set name="soulshots" value="0"/>
+    <set name="spiritshots" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="1150"/>
+    <equip>
+      <slot id="LEFT_HAND"/>
+    </equip>
+    <for>
+      <add stat="sDef" order="0x10" value="305"/>
+      <add stat="rShld" order="0x10" value="20"/>
+      <add stat="rEvas" order="0x10" value="-8.0000"/>
+      <enchant stat="sDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </weapon>
+  <weapon id="61097" name="Seraph Shield">
+    <set name="crystal_count" value="307"/>
+    <set name="crystal_type" value="S"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="Icon2.Armor.weapon_dynaksus_i00"/>
+    <set name="price" value="6404000"/>
+    <set name="rnd_dam" value="0"/>
+    <set name="soulshots" value="0"/>
+    <set name="spiritshots" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="1150"/>
+    <equip>
+      <slot id="LEFT_HAND"/>
+    </equip>
+    <for>
+      <add stat="sDef" order="0x10" value="305"/>
+      <add stat="rShld" order="0x10" value="20"/>
+      <add stat="rEvas" order="0x10" value="-8.0000"/>
+      <enchant stat="sDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </weapon>
+  <weapon id="61098" name="Eternal Shield">
+    <set name="crystal_count" value="307"/>
+    <set name="crystal_type" value="S"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="Icon2.Armor.weapon_dynaksus_i00"/>
+    <set name="price" value="6404000"/>
+    <set name="rnd_dam" value="0"/>
+    <set name="soulshots" value="0"/>
+    <set name="spiritshots" value="0"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="1150"/>
+    <equip>
+      <slot id="LEFT_HAND"/>
+    </equip>
+    <for>
+      <add stat="sDef" order="0x10" value="305"/>
+      <add stat="rShld" order="0x10" value="20"/>
+      <add stat="rEvas" order="0x10" value="-8.0000"/>
+      <enchant stat="sDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </weapon>
+  <armor id="61090" name="Immortal Sigil">
+    <set name="attributable" value="false"/>
+    <set name="crystal_count" value="307"/>
+    <set name="crystal_type" value="S"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="Icon2.Armor.weapon_dynaksus_i00"/>
+    <set name="price" value="6404000"/>
+    <set name="type" value="SIGIL"/>
+    <set name="weight" value="930"/>
+    <equip>
+      <slot id="LEFT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="8311" level="1"/>
+    </skills>
+    <for>
+      <add stat="pDef" order="0x10" value="15"/>
+      <add stat="rEvas" order="0x10" value="-8"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  <armor id="61091" name="Twilight Sigil">
+    <set name="attributable" value="false"/>
+    <set name="crystal_count" value="307"/>
+    <set name="crystal_type" value="S"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="Icon2.Armor.weapon_dynaksus_i00"/>
+    <set name="price" value="6404000"/>
+    <set name="type" value="SIGIL"/>
+    <set name="weight" value="930"/>
+    <equip>
+      <slot id="LEFT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="8311" level="1"/>
+    </skills>
+    <for>
+      <add stat="pDef" order="0x10" value="15"/>
+      <add stat="rEvas" order="0x10" value="-8"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  <armor id="61092" name="Seraph Sigil">
+    <set name="attributable" value="false"/>
+    <set name="crystal_count" value="307"/>
+    <set name="crystal_type" value="S"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="Icon2.Armor.weapon_dynaksus_i00"/>
+    <set name="price" value="6404000"/>
+    <set name="type" value="SIGIL"/>
+    <set name="weight" value="930"/>
+    <equip>
+      <slot id="LEFT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="8311" level="1"/>
+    </skills>
+    <for>
+      <add stat="pDef" order="0x10" value="15"/>
+      <add stat="rEvas" order="0x10" value="-8"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+  <armor id="61093" name="Eternal Sigil">
+    <set name="attributable" value="false"/>
+    <set name="crystal_count" value="307"/>
+    <set name="crystal_type" value="S"/>
+    <set name="crystallizable" value="true"/>
+    <set name="icon" value="Icon2.Armor.weapon_dynaksus_i00"/>
+    <set name="price" value="6404000"/>
+    <set name="type" value="SIGIL"/>
+    <set name="weight" value="930"/>
+    <equip>
+      <slot id="LEFT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="8311" level="1"/>
+    </skills>
+    <for>
+      <add stat="pDef" order="0x10" value="15"/>
+      <add stat="rEvas" order="0x10" value="-8"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+  </armor>
+</list>
